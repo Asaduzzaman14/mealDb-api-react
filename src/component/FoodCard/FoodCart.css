@@ -1,0 +1,14 @@
+.card{
+    width:400px;
+    margin-left: 200px;
+}
+.cart-btn{
+    padding:8px 12px;
+    background-color: rgb(133, 155, 175);
+    margin-bottom: 30px;
+    border:none;
+    border-radius: 5px;
+    color:#FFF;
+    font-size: 20px;
+    
+}
